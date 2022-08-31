@@ -1,0 +1,3 @@
+1234 
+
+Se escribe en el archivo .gitignore la carpeta o archivo que se quiere ignorar en el repositorio
